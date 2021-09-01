@@ -1,6 +1,6 @@
 #### Hi there! 👋
 
-### I'm Madni Ali 👨‍💻 Full Stack Developer 🇵🇰 🇵
+### I'm Madni Ali 👨‍💻 Full Stack Developer 🇵🇰
 <hr style="height: 1px;">
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-150x25.png?v=103)](https://github.com/Madnialihussain)
@@ -8,7 +8,7 @@
 
 
 
-##### A Full Stack Developer who is passionate about new technologies in web and 3d
+##### A Full Stack Developer who is passionate about new technologies in Development and Computer Science
 
 - 🔭 I am currently working on Javascript, Node.Js & React
 - 🌱 I am currently learning ThreeJS
