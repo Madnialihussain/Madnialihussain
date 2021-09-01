@@ -77,9 +77,9 @@
 
 <br />
 
-#### 📊 Stats :
+<!-- #### 📊 Stats :
 
-<div style="display: flex;">
+<div style="display: flex;"> -->
 
 <!-- [![Madni Ali's github stats](https://github-readme-stats.vercel.app/api?username=MadniAliHussain&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
