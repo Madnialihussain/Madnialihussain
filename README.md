@@ -10,7 +10,7 @@
 
 ##### A Full Stack Developer who is passionate about new technologies in Development and Computer Science
 
-- 🔭 I am currently working on Javascript, Node.Js & React
+- 🔭 I am currently working on Ruby on Rails, Javascript,Angular, Node.Js & React
 - 🌱 I am currently learning ThreeJS
 - 💫 Looking to contribute to open-source
 
@@ -35,6 +35,7 @@
 ##### ⚡️ Backend :
 
 <div style="display: flex; align-items: center;">
+<img style="margin: 0 5px;" src='https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg'  width="50" height="50" alt='Ruby' />
 <img style="margin: 0 5px;" src='./tech-images/nodejs.svg'  width="50" height="50" alt='NodeJs' />
 <img style="margin: 0 5px;" src='./tech-images/express.svg'  width="50" height="50" alt='Express' />
 <img style="margin: 0 5px;" src='./tech-images/python.svg'  width="50" height="30" alt='Python' />
