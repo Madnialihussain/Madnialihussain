@@ -1,89 +1,57 @@
-#### Hi there! 👋
+### 👋 Hi, I'm Madni Ali Hussain
 
-### I'm Madni Ali 👨‍💻 Full Stack Developer 🇵🇰
-<hr style="height: 1px;">
+#### 🇮🇪 Senior Software Engineer | .NET | Ruby on Rails | AI Enthusiast | Remote-first Engineer
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-150x25.png?v=103)](https://github.com/Madnialihussain)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/Madnialihussain)
+[![LinkedIn](https://img.shields.io/badge/-madni--ali--ba96011a2-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madni-ali-ba96011a2/)
+[![GitHub](https://img.shields.io/badge/GitHub-MadniAliHussain-black?style=for-the-badge&logo=github)](https://github.com/MadniAliHussain)
+[![Email](https://img.shields.io/badge/Email-madnialihussain%40outlook.com-red?style=for-the-badge&logo=gmail)](mailto:madnialihussain@outlook.com)
 
+---
 
+🎯 **About Me**
 
-##### A Full Stack Developer who is passionate about new technologies in Development and Computer Science
+I'm a Full Stack Developer with a strong focus on backend technologies like .NET, Ruby on Rails, and PostgreSQL. My passion lies in building high-performance distributed systems and optimizing algorithms for real-time operations. I also have hands-on experience integrating AI/ML models like the Temporal Fusion Transformer and building RAG pipelines with LLMs.
 
-- 🔭 I am currently working on Ruby on Rails, Javascript,Angular, Node.Js & React
-- 🌱 I am currently learning ThreeJS
-- 💫 Looking to contribute to open-source
+Just Finished **Master’s in Artificial Intelligence** in Dublin, I’m combining my strong development background with applied AI to solve complex, data-driven problems.
 
+---
 
+🛠 **Tech Stack & Tools**
 
-####  🔥 Tech Stack :
-<br />
+- **Languages**: C#, Ruby, Python, JavaScript
+- **Frameworks**: .NET 8, Ruby on Rails, Node.js, React
+- **DevOps**: Docker, Terraform, GitHub Actions, GCP
+- **Data**: PostgreSQL, Redis, T-SQL, Geohashing
+- **ML/AI**: TensorFlow, Temporal Fusion Transformer, LLM-based RAG pipelines (Vanna AI)
+- **Other**: LINQ, SuiteScript (NetSuite), CI/CD, Caching Strategies
 
-##### ⚡️ Fronted :
+---
 
-<div style="display: flex; align-items: center;">
-<img style="margin: 0 5px;" src='./tech-images/javascript.svg'  width="30" height="30" alt='Javascript' />
-<img style="margin: 0 5px;" src='./tech-images/typescript.svg'  width="30" height="30" alt='Typescript' />
-<img style="margin: 0 5px;" src='./tech-images/react.svg'  width="30" height="30" alt='React' />
-<img style="margin: 0 5px;" src='./tech-images/redux.svg'  width="30" height="30" alt='Redux' />
-<img style="margin: 0 5px;" src='./tech-images/sass.svg'  width="30" height="30" alt='Sass' />
-<img style="margin: 0 5px;" src='./tech-images/gatsby.png'  width="30" height="30" alt='Gatsby' />
-</div>
+💡 **Key Achievements**
 
-<br />
+- ⏱ **40% speed boost** in real-time operations by optimizing rider algorithms and caching with Redis.
+- 🚚 **35% reduction** in fuel usage & delivery time with route and dispatch algorithm improvements.
+- 📊 Built a **RAG pipeline** for carbon emission summaries using SQL + LLM + Vanna AI.
+- ⚙️ Migrated legacy systems to .NET 8 and achieved **98% uptime** through robust CI/CD.
+- 📈 Improved client-side load times by **28%** and search conversions by **30%** in previous roles.
 
-##### ⚡️ Backend :
+---
 
-<div style="display: flex; align-items: center;">
-<img style="margin: 0 5px;" src='https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg'  width="50" height="50" alt='Ruby' />
-<img style="margin: 0 5px;" src='./tech-images/nodejs.svg'  width="50" height="50" alt='NodeJs' />
-<img style="margin: 0 5px;" src='./tech-images/express.svg'  width="50" height="50" alt='Express' />
-<img style="margin: 0 5px;" src='./tech-images/python.svg'  width="50" height="30" alt='Python' />
-</div>
+🌱 **Currently Learning**
+- Foundation models for structured data
+- Applied AI in logistics
+- Advanced vector databases for RAG pipelines
 
-<br />
+---
 
-##### ⚡️ Other :
+👨‍🏫 **Mentorship**
+I actively mentor junior developers, focusing on clean architecture, testing, and career progression in .NET and Rails environments.
 
-<div style="display: flex; align-items: center;">
-<img style="margin: 0 5px;" src='./tech-images/firebase.png'  width="40" height="40" alt='Firebase' />
-<img style="margin: 0 5px;" src='./tech-images/linux.svg'  width="40" height="40" alt='Linux' />
-<img style="margin: 0 5px;" src='./tech-images/mongodb.svg'  width="40" height="40" alt='Mongodb' />
-</div>
+---
 
-<br />
+🤝 **Let's Connect**
+I'm open to collaborations in AI + Software Engineering, technical mentoring, or consulting on .NET modernization projects.
 
-##### 🌟 Learning :
+---
 
-<div style="display: flex; align-items: center;">
-<img style="margin: 0 5px;" src='./tech-images/netlify.svg'  width="30" height="40" alt='Netlify' />
-<img style="margin: 0 5px;" src='./tech-images/mysql.svg'  width="50" height="50" alt='MySql' />
-<img  style="margin: 0 5px;"src='./tech-images/nextjs.png'  width="50" height="30" alt='NextJs' />
-<img style="margin: 0 5px;" src='./tech-images/graphql.png'  width="40" height="40" alt='GraphQl' />
-</div>
-
-<br />
-
-#### 🤝 Connect with me:
-
-<a href="https://www.linkedin.com/in/madni-ali-ba96011a2/">
-<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://twitter.com/obiwenkenobii">
-<img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
-</a>
-<a href="mailto:madni.hussain.ali@gmail.com">
-<img src="https://img.shields.io/badge/gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/> 
-</a>
-
-<br />
-
-<!-- #### 📊 Stats :
-
-<div style="display: flex;"> -->
-
-<!-- [![Madni Ali's github stats](https://github-readme-stats.vercel.app/api?username=MadniAliHussain&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madnialihussainr&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-</div>
+🧠 _“Code that works is good. Code that works, scales, and is readable is better.”_
