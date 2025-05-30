@@ -10,7 +10,7 @@
 
 🎯 **About Me**
 
-I'm a Full Stack Developer with a strong focus on backend technologies like .NET, Ruby on Rails, and PostgreSQL. My passion lies in building high-performance distributed systems and optimizing algorithms for real-time operations. I also have hands-on experience integrating AI/ML models like the Temporal Fusion Transformer and building RAG pipelines with LLMs.
+I'm a Full Stack Developer with a strong focus on backend technologies like .NET, Ruby on Rails, and PostgreSQL. My passion lies in building high-performance distributed systems and optimizing algorithms for real-time operations. I also have hands-on experience integrating AI/ML models and building RAG pipelines with LLMs.
 
 Just Finished **Master’s in Artificial Intelligence** in Dublin, I’m combining my strong development background with applied AI to solve complex, data-driven problems.
 
